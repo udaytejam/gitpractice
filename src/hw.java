@@ -5,5 +5,6 @@ public class hw {
 		System.out.print("Hello World 2nd line");
 		System.out.print("Hello World 3rd line");
 		System.out.print("Hello World 4th and last line");
+		int x=0;
 	}
 }
